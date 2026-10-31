@@ -13,4 +13,4 @@ HTML | CSS
 
 ### 🎬 Project Demo
 
-![Project Demo](./screenshots/demo.gif)
+![Project Demo](./screenshot.gif)
